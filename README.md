@@ -3,7 +3,7 @@
 ## Download Above Project
 ## Edit application.properties as per database and port
 ## Use postman to work with api
-Project has fololowing Functionality
+## Project has following Functionality
 -add product
 -delete product
 -update product
