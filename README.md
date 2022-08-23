@@ -14,3 +14,4 @@
 -Seach product by category with min-max pricerange (localhost:8081/products/cprice?type=laptop&minPrice=20&maxPrice=300)
 -Seach product by type  with min-max pricerange    (localhost:8081/products/tprice?category=electronics&minPrice=200&maxPrice=2400)
 ## Swagger documentation (http://localhost:8081/swagger-ui.html#/my-controller)
+<img src="https://bkit.co/w_630479410217b.gif" />
